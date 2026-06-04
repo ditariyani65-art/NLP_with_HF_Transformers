@@ -2,7 +2,7 @@
 <p align="center"> Jupyter Notebook untuk mempelajari tentang regresi, klasifikasi dan clustering</p>
 ---
 <h3> Name : Dita Riyani </h3>
-<h3> ### My todo :  </h3>
+<h3> My todo :  </h3>
 
 #### 1. Example 1 - Sentiment Analysis
 
